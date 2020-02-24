@@ -7,7 +7,7 @@ DOE
 App de cadastro de doadores de sangues utilzando HTLM5, CSS3, Javascript[NODEJS] e banco de dados Postgres
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="doe.png" width="100%">
 </p>
 
 ### Prerequisites
